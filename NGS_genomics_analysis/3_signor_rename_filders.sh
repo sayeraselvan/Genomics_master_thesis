@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Path to the folder containing the SRR directories
-base_dir="/home/vetlinux05/Siva/raw_data/test/signor/cut"  # Change this to your actual folder path
+base_dir="/home/Siva/raw_data/test/signor/cut"  # Change this to your actual folder path
 
 # Path to the file containing SRR to strain mappings
-map_file="/home/vetlinux05/Siva/raw_data/test/signor/file_names_samples.txt"  # Change this to where you store the mappings
+map_file="/home/Siva/raw_data/test/signor/file_names_samples.txt"  # Change this to where you store the mappings
 
 # Loop through the mapping file
 while read -r srr strain; do
