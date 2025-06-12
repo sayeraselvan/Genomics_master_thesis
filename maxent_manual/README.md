@@ -1,9 +1,9 @@
-# maxENT Analysis Directory
+# maxENT
 This directory contains all scripts and resources used for ecological niche modeling with maxENT as part of my Master’s thesis in Genomics. The workflow is organized into sequential steps, from data preparation to final analysis and visualization.
 
 ---
 
-Folder/Scripts structure
+## Directory structure
 ```
 1_downloadclimate	Scripts to download and prepare climate/environmental data for modeling
 2_presencelocations	Processes species presence location data for input to MaxEnt.
