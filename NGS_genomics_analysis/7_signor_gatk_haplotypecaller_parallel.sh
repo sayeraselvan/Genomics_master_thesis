@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Reference genome path
-REFERENCE="/home/vetlinux05/Siva/raw_data/simulans/dsimM252v1.2+microbiome.fa.gz"
+REFERENCE="/home/Siva/raw_data/simulans/dsimM252v1.2+microbiome.fa.gz"
 
 # Function to run GATK HaplotypeCaller and log output
 run_gatk() {
