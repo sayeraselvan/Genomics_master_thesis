@@ -30,7 +30,7 @@ The analyses combine next-generation sequencing (NGS) data processing with advan
 ```
 ---
 
-## Methods Summary
+## Short overview
 
 The following methods and analyses are included:
 
