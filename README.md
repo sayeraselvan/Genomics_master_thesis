@@ -21,6 +21,7 @@ The analyses combine next-generation sequencing (NGS) data processing with advan
 ## Repository Structure
 
 ```
+├── NGS_genomic_analysis 
 ├── GEMMA/ # GWAS / GEA genome environmental association scripts
 │ └── GEA_scripts/ 
 ├── mar/ # mutation area relationship - conservation genomics
