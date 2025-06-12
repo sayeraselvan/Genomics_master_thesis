@@ -5,16 +5,22 @@
 
 ---
 
+## Project Description
 
+This repository contains the scripts, data files, and documentation associated with my Master's thesis in Genomics. The project focuses on analyzing genomic datasets to address biological questions related to:
 
-## NGS scripts Description
+- Adaptation
+- Niche modeling
+- Conservation genomics
 
-This repository contains the scripts, data files, and documentation associated with my Master's thesis in Genomics. The project focuses on analyzing genomic datasets to address biological questions related to adaptation, niche modeling and a need for conservation genomics.
+The analyses combine next-generation sequencing (NGS) data processing with advanced statistical and ecological modeling.
 
 ---
 
+
 ## Repository Structure
-'''
+
+'''yaml
 ├── GEMMA/ # GWAS / GEA genome environmental association scripts
 │ └── GEA_scripts/ 
 ├── mar/ # mutation area relationship - conservation genomics
@@ -22,3 +28,4 @@ This repository contains the scripts, data files, and documentation associated w
 ├── gradient_forest/ # GF analysis i performed
 └── README.md # This file
 '''
+
