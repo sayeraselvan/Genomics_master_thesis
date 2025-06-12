@@ -29,3 +29,41 @@ The analyses combine next-generation sequencing (NGS) data processing with advan
 └── README.md # This file
 '''
 
+
+---
+
+## Methods Summary
+
+The following methods and analyses are included:
+
+- Genome-Environment Associations using GEMMA
+- Species Distribution Modeling with MaxEnt
+- Gradient Forest analysis for adaptive genomic variation
+- Mutation-Area Relationship (MAR) analysis for conservation applications
+
+---
+
+## Software and Tools
+
+- Python >= 3.x
+- R >= 4.x
+- GEMMA
+- MaxEnt
+- Gradient Forest (R package)
+- BEDTools
+- VCFtools
+- Samtools
+- BCFtools
+
+R packages used include:  
+`gradientForest`, `tidyverse`, `data.table`, `raster`, `dismo`, `rgdal`, `vegan`, `ggplot2`.
+
+---
+
+## How to Use
+
+### Clone the repository
+
+```bash
+git clone git@github.com:sayeraselvan/Genomics_master_thesis.git
+cd Genomics_master_thesis
