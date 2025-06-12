@@ -14,10 +14,11 @@ This repository contains the scripts, data files, and documentation associated w
 ---
 
 ## Repository Structure
-
+'''
 ├── GEMMA/ # GWAS / GEA genome environmental association scripts
 │ └── GEA_scripts/ 
 ├── mar/ # mutation area relationship - conservation genomics
 ├── maxent_manual/ # detailed overview to perform maxent
 ├── gradient_forest/ # GF analysis i performed
 └── README.md # This file
+'''
