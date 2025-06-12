@@ -43,8 +43,8 @@ The following methods and analyses are included:
 
 ## Software and Tools
 
-- Python >= 3.x
-- R >= 4.x
+- Python >= 3.8
+- R >= 4.2
 - GEMMA
 - maxENT
 - Gradient Forest (R package)
@@ -52,9 +52,6 @@ The following methods and analyses are included:
 - VCFtools
 - Samtools
 - BCFtools
-
-R packages used include:  
-`gradientForest`, `tidyverse`, `data.table`, `raster`, `dismo`, `rgdal`, `vegan`, `ggplot2`.
 
 ---
 
