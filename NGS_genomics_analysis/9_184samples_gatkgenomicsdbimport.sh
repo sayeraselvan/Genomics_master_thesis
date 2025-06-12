@@ -2,7 +2,7 @@
 
 # Define memory allocation and path to temporary storage
 MEMORY="40g"  # Adjust as needed if more memory is available
-TMP_DIR="/home/vetlinux05/Siva/raw_data/test/signor/cut/all_gvcfs/tmp"
+TMP_DIR="/home/Siva/raw_data/test/signor/cut/all_gvcfs/tmp"
 SAMPLE_MAP="cohort.sample_map"
 LOG_FILE="gatk_genomicsdbimport.log"
 
