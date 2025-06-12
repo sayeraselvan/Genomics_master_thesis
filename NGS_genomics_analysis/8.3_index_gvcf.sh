@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing the GVCF files
-GVCF_DIR="/home/vetlinux05/Siva/raw_data/test/signor/cut/all_gvcfs"
+GVCF_DIR="/home/Siva/raw_data/test/signor/cut/all_gvcfs"
 
 # Function to create TBI index if it doesn't already exist
 create_index() {
