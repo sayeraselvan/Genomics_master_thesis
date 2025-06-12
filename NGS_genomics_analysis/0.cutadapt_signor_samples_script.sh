@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Input directory containing .fastq.gz files
-input_dir="/home/vetlinux05/Siva/raw_data/signor"
+input_dir="/home/Siva/raw_data/signor"
 
 # Create the input directory if it doesn't exist
 if [ ! -d "$input_dir" ]; then
