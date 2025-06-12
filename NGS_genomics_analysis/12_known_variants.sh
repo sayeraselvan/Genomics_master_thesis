@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the reference file
-ref="/home/vetlinux05/Siva/raw_data/simulans/dsimM252v1.2+microbiome.fa.gz"
+ref="/home/Siva/raw_data/simulans/dsimM252v1.2+microbiome.fa.gz"
 
 # Input VCF file
 input_vcf="signor_final_184samples_gatk_all_chr_genotyped.vcf.gz"
