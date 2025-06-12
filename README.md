@@ -20,14 +20,14 @@ The analyses combine next-generation sequencing (NGS) data processing with advan
 
 ## Repository Structure
 
-'''bash
+'''
 ├── GEMMA/ # GWAS / GEA genome environmental association scripts
 │ └── GEA_scripts/ 
 ├── mar/ # mutation area relationship - conservation genomics
 ├── maxent_manual/ # detailed overview to perform maxent
 ├── gradient_forest/ # GF analysis i performed
 └── README.md # This file
-'''
+
 ---
 
 ## Methods Summary
