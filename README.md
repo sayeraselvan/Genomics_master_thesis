@@ -55,10 +55,3 @@ The following methods and analyses are included:
 
 ---
 
-## How to use this
-
-### Clone the repository
-
-```bash
-git clone git@github.com:sayeraselvan/Genomics_master_thesis.git
-cd Genomics_master_thesis
