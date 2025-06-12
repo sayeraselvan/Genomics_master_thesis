@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Reference prefix for BWA-MEM2
-REF_PFX="/home/vetlinux05/Siva/raw_data/simulans/ref/dsimM252v1.2"
+REF_PFX="/home/Siva/raw_data/simulans/ref/dsimM252v1.2"
 
 # Process each directory one at a time
 for dir in Sz*/; do
