@@ -20,15 +20,12 @@ The analyses combine next-generation sequencing (NGS) data processing with advan
 
 ## Repository Structure
 
-'''yaml
-├── GEMMA/ # GWAS / GEA genome environmental association scripts
-│ └── GEA_scripts/ 
-├── mar/ # mutation area relationship - conservation genomics
-├── maxent_manual/ # detailed overview to perform maxent
-├── gradient_forest/ # GF analysis i performed
-└── README.md # This file
-'''
-
+-├── GEMMA/ # GWAS / GEA genome environmental association scripts
+-│ └── GEA_scripts/ 
+-├── mar/ # mutation area relationship - conservation genomics
+-├── maxent_manual/ # detailed overview to perform maxent
+-├── gradient_forest/ # GF analysis i performed
+-└── README.md # This file
 
 ---
 
@@ -48,7 +45,7 @@ The following methods and analyses are included:
 - Python >= 3.x
 - R >= 4.x
 - GEMMA
-- MaxEnt
+- maxENT
 - Gradient Forest (R package)
 - BEDTools
 - VCFtools
@@ -60,7 +57,7 @@ R packages used include:
 
 ---
 
-## How to Use
+## How to use this
 
 ### Clone the repository
 
